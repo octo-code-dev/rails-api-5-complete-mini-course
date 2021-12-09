@@ -8,6 +8,6 @@ Technologies used in this project:
  - Rack Attack (Gem);
  - Rack Cors (Gem);
  - Devise (Gem);
- - Devise Simple Token (Gem).
+ - Devise Simple Token (Gem);
  - Postman;
  - SwaggerHub.
