@@ -1,24 +1,13 @@
-# README
+# rails-api-5-complete-mini-course
+Simple contact book API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Technologies used in this project:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Ruby;
+ - Ruby On Rails (API mode);
+ - Rack Attack (Gem);
+ - Rack Cors (Gem);
+ - Devise (Gem);
+ - Devise Simple Token (Gem).
+ - Postman;
+ - SwaggerHub.
